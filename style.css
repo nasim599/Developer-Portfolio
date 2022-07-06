@@ -54,6 +54,11 @@ h2 {
     color: orange;
 }
 
+.experience-main {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
 .experience-area {
     display: flex;
 }
@@ -64,9 +69,18 @@ h2 {
     margin-right: 5%;
     margin-bottom: 100px;
     padding-left: 20px;
+    padding-bottom: 50px;
     box-shadow: 10px 10px 40px gray;
 }
-#full-stack{
-    border-left: 2px solid tomato;
+
+#full-stack {
+    border-left: 10px solid tomato;
 }
-#baby-devo
+
+#baby-devo {
+    border-left: 10px solid blue;
+}
+
+.text {
+    text-align: center;
+}
