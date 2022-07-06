@@ -19,6 +19,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .hire-button {
     text-decoration: none;
     font-weight: 700;
@@ -43,4 +47,26 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 100px;
 }
+
+.orange-colour {
+    color: orange;
+}
+
+.experience-area {
+    display: flex;
+}
+
+.experiance-items {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+#full-stack{
+    border-left: 2px solid tomato;
+}
+#baby-devo
